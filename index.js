@@ -100,8 +100,3 @@ app.command("/bobcat-yt", async ({ command, ack, respond }) => {
   // Check YouTube feeds every 2.5 mins
   setInterval(checkYouTube, 300000);
 })();
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin https://github.com/MysticisOG/Bobcat---Dronebot-.git
-git push -u origin main
