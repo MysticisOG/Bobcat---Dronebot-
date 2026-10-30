@@ -36,6 +36,9 @@ Commands
 
 Follow these steps to set up and run your own instance of Bobcat:
 
+Or, if you would like to get to it right away, you can just download it from the Slack Marketplace: 
+https://hackclub.slack.com/marketplace/A0BTGS988NA-bobcat
+
 ### 1. Clone the Repository
 Clone this repository to your local machine or server:
 \`\`\`bash
